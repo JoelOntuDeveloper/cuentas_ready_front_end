@@ -1,6 +1,6 @@
-# cuentas_ready
+# Cuentas Ready
 
-A new Flutter project.
+Proyecto en Flutter
 
 ## Getting Started
 
